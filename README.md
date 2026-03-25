@@ -12,7 +12,7 @@
 
 <br/>
 
-- 🏢 Currently @Haworth Lifestyle** - Group Digital Project Specialist, Magenta (MI)
+- 🏢 Currently @Haworth Lifestyle - Group Digital Project Specialist, Milano, Italy
 - ⚙️ Specialised in **CRM strategy**, **marketing automation**, and **platform integrations** (Dynamics 365, Azure Logic Apps, Power Automate)
 - 📊 Working daily with **Magento**, **Shopify**, **Power BI**, and **Microsoft ecosystem**
 - 🤖 Building toward **AI Governance** (EU AI Act · NIST AI RMF · ISO/IEC 42001 · IAPP AIGP)
